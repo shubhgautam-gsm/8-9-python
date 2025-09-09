@@ -1,9 +1,9 @@
-user_words=['saru','kemche','maja','harami','good']
+user_words=['saru','kemche','maja','nonsense','good']
 
 
 for word in user_words:
  
- if word != 'harami':    
+ if word != 'nonsense':    
     print(word)
  else:
-    print('**')
+    print('***')
